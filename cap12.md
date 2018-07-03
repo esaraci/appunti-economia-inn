@@ -64,6 +64,7 @@ Descrive delle regole di design per la produzione di prodotti da assemblare per 
 **Failure Modes and Effect Analysis (FMEA)**: (1) indetificare tutte le modalità di accadimento di potenziali guasti, difetti ... (2) li classifico in base alla gravità, probabilità, possibilità di rilevamento dai sistem di controllo. (3) definisco delle azioni di miglioramento, piano di prevenzione.
 
 **CAD**: Computer Aided Design, utilizzo di computer per la progettazione ed il testing del prodotto. Consente simulazioni virtuali e quindi meno costose.
+
 **CAM**: Computer Aided Manufacturing, utilizzo di computer nella fase di produzione (stampanti 3D)
 
 ### Perchè usare strumenti per la misurazione della performance
