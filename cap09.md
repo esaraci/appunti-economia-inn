@@ -64,7 +64,6 @@ Il segreto industriale è rappresentato da informazioni di proprietà esclusiva 
 - deve conservare il proprio valore rimanendo segreto
 
 
-
 ### Sistemi propretari e sistemi aperti
 I sistemi proprietari (**wholly proprietary system**) sono basati sul possesso esclusivo della tecnologia da parte dell'impresa e su una strategia di protezione
 

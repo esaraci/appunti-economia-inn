@@ -3,7 +3,7 @@
 ### Le forme dell'innovazione
 Rapida distinzione tra le varie forme di innovazione:
 
-- **di prodotto**: sono incorporate nei beni o servizi realizzati da un impresa. Per esempio lo sviluppo di un veicolo ibrido a motore elettrico (Honda).
+- **di prodotto**: sono incorporate nei beni o servizi realizzati da un' impresa. Per esempio lo sviluppo di un veicolo ibrido a motore elettrico (Honda).
 - **di processo**: cambiamenti nelle modalità attraverso cui un'impresa svolge le sue attività, relative ad esempio alle tecniche di produzione o al marketing dei propri beni o servizi.
 
 L'innovazione di prodotto e processo sono spesso simultanee. Il nuovo processo può consentire la produzione di nuovi prodotti. Ad esempio, i cambiamenti nel processo della lavorazione dei metalli hanno permesso la produzione di catene per le biciclette, le quali hanno permesso la produzione di bicicilette con cambio di velocità.

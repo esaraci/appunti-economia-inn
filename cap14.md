@@ -34,7 +34,7 @@ Alcune determinanti dei processi di spinoff:
 Per gli spinoff è decisivo l'ecosistema innovativo che li circonda, i principali elementi del contesto locale che possono favorire (...):
 
 - accesso ai fonti di capitali di rischio e venture capital
-- dotazione di infrastrutture, dispionibilità di laboratorii, potenza di calcolo etc
+- dotazione di infrastrutture, dispionibilità di laboratori, potenza di calcolo etc
 - (...)
 
 Altrettanto importante è l'azione degli strumenti universitari:

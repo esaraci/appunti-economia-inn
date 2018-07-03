@@ -18,12 +18,12 @@ Google impone al personale tecnico di dedicare il 20% del proprio tempo in azien
 - ampia base di clienti
 - ampia base di contratti di fornitura
 
-Queste caratteristiche sono fonte di **inernzia** la quale ostacola cambiamenti di rotta rapidi. All'aumentare dei dipendenti, la governance, la comunicazione e il coordinamento diventano sempre più lenti e macchinosi.
+Queste caratteristiche sono fonte di **inerzia** la quale ostacola cambiamenti di rotta rapidi. All'aumentare dei dipendenti, la governance, la comunicazione e il coordinamento diventano sempre più lenti e macchinosi.
 Spesso nelle grande imprese è facile accontentarsi del guadagno attuale piuttosto che rischiare in qualche progetto di impresa.
 
-**Formalizzazione**: il grado di regolazione del comportamento dei membri di un'organizzazione attraverso regole, procedure e documentazione.
+**Formalizzazione**: da *glossario*: ricorso a regole, procedure e documenti in forma scritta al fine di codificare e vincolare il comportamento di membri del'organizzazione. Da *appunti*: il grado di regolazione del comportamento dei membri di un'organizzazione attraverso regole, procedure e documentazione.
 
-**Standardizzazione**: il grado di codificazione delle attività dell'impresa secondo procedure, regole predeterminate.
+**Standardizzazione**: da *glossario*: svolgimento delle attività aziendali secondo regole, norme, codici, modelli di comportamento, procedure uniformi. Da *appunti*: il grado di codificazione delle attività dell'impresa secondo procedure, regole predeterminate.
 
 |GI | PMI|
 |:---:|:---:|

@@ -1,4 +1,4 @@
-## CAP 6 - La definizione dell'orientamento strategico
+
 
 
 ### Analisi dell'ambiente esterno
@@ -39,13 +39,13 @@ Dopo aver effettuate un analisi di base dell'ambiente interno, il management pu�
 ### Core competency
 Per core competency si intendono quelle **competenze distintive che differenziano un'azienda sotto il profilo strategico**. Una core competency nasce dalla capacità dell'impresa di **combinare e integrare una molteplicità di capacità primare**, in cui eccelle, allo scopo di fondare le piattaforme su cui costruire competenze specialistiche. Una o più core competency possono portare allo sviluppo dei **core product**, che a loro volta possono dare vita a unità di business che producono poi i beni da introdurre nel mercato.
 
-Una **core comptency** generalmente ha le seguenti **caratteristiche**:
+Una **core competency** generalmente ha le seguenti **caratteristiche**:
 
 - fonte di differenziazione signficativa dai competitor, **conferisce unicità**
 - possono essere **sfruttate in più buisness** (Honda produce motori non solo per auto)
-- sono d**ifficili da imitare**
+- sono **difficili da imitare**
 
 A volte proprio queste aree di eccellenza di un'impresa rappresentano una fonte di rischio. Infatti un'azienda troppo legata alla proprie core competency potrebbe non essere più in grado di svilupparne nuove, proprio perchè rimane attaccata al modello passato sui cui è già esperta e ha perso man mano la flessibilità necessaria. Tale fenomeno è denominato **core rigidity**.
 
 #### Capacità dinamiche dell'impresa
-Sebbene molte core competency siano associate ad un set di tecnologie/prodotti, ce ne sono alcune associate ad una serie di **capacità che predispongono** l'impresa ad una r**apida riconfigurazione della propria struttura**/routine/.. in risposta alle nuove opportunità di mercato. Tali competenze sono definite **capacità dinamiche** e consentono all'impresa di adattarsi anche alle discontinuità tecnologiche.
+Sebbene molte core competency siano associate ad un set di tecnologie/prodotti, ce ne sono alcune associate ad una serie di **capacità che predispongono** l'impresa ad una **rapida riconfigurazione della propria struttura**/routine/.. in risposta alle nuove opportunità di mercato. Tali competenze sono definite **capacità dinamiche** e consentono all'impresa di adattarsi anche alle discontinuità tecnologiche.

@@ -7,7 +7,7 @@ Nelle startup spesso si assegano ruoli complicati a membri non adatti (per esclu
 
 Ad un **attacco** segue:
 
-- contrattaco
+- contrattacco
 - fuga:
     - tecnica del rospo
     - alibi e scuse
@@ -31,6 +31,7 @@ Come penso -> come sto -> come agisco -> risultati ==> **come penso -> risultati
 ### Struttura del team di sviluppo
 
 I team possono essere distinti in quattro categorie:
+
 1. struttura funzionale: nessuna integrazione fra le funzioni; i dipendenti continuano ad operare nelle proprie aree funzionali
 2. struttura leggera: PM garantisce integrazione interfunzionale, ma i membri continuano a lavorare nelle proprie aree funzionali
 3. struttura pesante: PM garantisce integrazione interfunzionale; i membri vengono asseganti temporaneamente al progetto dalle aree funzionali, ma rispondono al rispettivo responsabile
