@@ -4,7 +4,7 @@
 ### Analisi dell'ambiente esterno
 Per l'analisi dell'ambiente esterno si utilizzano principalmente due strumenti: (1) le 5 forze di Porter, l'analisi degli **stakeholder**
 
-#### Il modello delle 5 ==> (6) forze di porter
+#### Il modello delle 5 ==> (6) forze di Porter
 
 Serve per misurare il grado di attività di un settore. Le 5 forze di porter sono le seguenti:
 
