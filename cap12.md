@@ -3,12 +3,20 @@
 
 Perchè lo sviluppo di un nuovo prodotto abbia successo è necessario raggiungere tre obiettivi contrastanti fra loro:
 
-1. massimizzare la soddisfazione del cliente
-2. ridurre i tempi del ciclo di sviluppo
-3. controllare i costi di sviluppo
+1. **massimizzare la soddisfazione** del cliente:
+    - il prod deve creare reale valore al cliente
+    - spesso non si conoscono chiaramente gli attributi che possiedono valore per i clienti
+    - spesso si sovrastima il prezzo che il cliente è disposto a pagare
+2. **ridurre i tempi del ciclo di sviluppo**
+    - i costi spesso sono proporzionali al tempo di sviluppo
+    - se sono lento i clienti instaureranno rapporti di fiducia con altri prodotti sostitutivi
+    - se sono precoce corro il rischio di creare esperienze/memorie negative fra i clienti
+3. **controllare i costi di sviluppo**
+    - è importante che i il ciclo di sviluppo sia efficiente oltre ad essere efficace
+    - non devo mai perdere di vista il costo che mi viene richiesto
 
 ### Processi di sviluppo sequenziali e paralleli
-Oggi tendono a prevalere processi simultanei (paralleli), abbreviano i tempi di sviluppo e consentono un maggiore coordinamento tra le fasi. In alcuni casi, però, i processi paralleli possono portare ad un aumento dei rischi e dei costi.
+Oggi tendono a prevalere processi simultanei (paralleli) - *simultaneous engineering* -, abbreviano i tempi di sviluppo e consentono un maggiore coordinamento tra le fasi. In alcuni casi, però, i processi paralleli possono portare ad un aumento dei rischi e dei costi, specialmente nei mercati che cambiano rapidamente.
 
 ### Project Champion
 Alcuni studi hanno suggerito la designazione di un senior manager per difendere il progetto di sviluppo di un nuovo prodotto, il **Project Champion**
@@ -25,7 +33,7 @@ Alcuni studi hanno suggerito la designazione di un senior manager per difendere 
 - si rimane bloccati nell'**escalating commitment**
 - può scoraggiare l'opposizione di altri membri al progetto anche quando è difficile che crei valore
 
-
+Per contrastare i rischi derivanti dall'introduzione del project champion si instaura anche la figura dell' **antichampion** il cui compito è opposto a quello del project champion.
 
 **Falsi miti** dei project champion:
 
@@ -36,20 +44,20 @@ Alcuni studi hanno suggerito la designazione di un senior manager per difendere 
 
 
 ### Coinvolgimento dei clienti
-- Coinvolgere i clienti diminuisce il rischio di produrre un prodotto che non risponda alle richieste dei clienti. In generale i clienti "sanno". Possono quindi indicare le prestazioni massime desiderate e la qualità minima attesa
+- Coinvolgere i clienti diminuisce il rischio di produrre un prodotto che non risponda alle richieste dei clienti. In generale **i clienti "sanno"**. Possono quindi indicare le prestazioni massime desiderate e la qualità minima attesa
 - Il cliente può partecipare allo sviluppo sperimentando le versioni di prova. (**beta testing**)
 - Le aziende preferiscono però le opinioni dei **lead user** piuttosto che l'opinione indistinta della massa. Non è facile individuare i lead user.
-- L'interazione con i clienti è un fattore critico di successo, i clienti possono avere anche un ruolo attivo all'interno dello sviluppo, non solo come fonte di informazioni.
+- L'interazione con i clienti è un fattore critico di successo, i clienti possono avere anche un **ruolo attivo** all'interno dello sviluppo, non solo come fonte di informazioni.
 
 ### Coinvolgimento dei fornitori
-- i fornitori hanno conoscenze tecniche, possono contribuire con nuove idee al miglioramento del prodotto, dell'efficacia del processo di sviluppo
-- possono suggerire l'utilizzo di risorse e componenti alternativi
-- grazie al coinvolgimento si possono coordinare le attività di processo per minimizzare i tempi di sviluppo
-- il management può includerli nel team e/o consultarli in qualità di partner.
+- i fornitori hanno **conoscenze tecniche**, possono contribuire con nuove idee al miglioramento del prodotto, dell'efficacia del processo di sviluppo
+- possono **suggerire** l'utilizzo di **risorse e componenti alternativi**
+- grazie al coinvolgimento si possono **coordinare le attività** di processo per minimizzare i tempi di sviluppo
+- il management può includerli nel team e/o consultarli in qualità di **partner**.
 
 
 ### Crowdsourcing
-condivisione di conoscenze su larga scala, collaborazione di massa per l'ideazione/sviluppo/realizzazione di progetti. Effettuato di norma attraverso l'uso di piattaforme digitali.
+condivisione di conoscenze su larga scala, **collaborazione di massa** per l'ideazione/sviluppo/realizzazione di progetti. Effettuato di norma attraverso l'uso di piattaforme digitali.
 
 
 ## Strumenti per il miglioramento del processo di sviluppo:
